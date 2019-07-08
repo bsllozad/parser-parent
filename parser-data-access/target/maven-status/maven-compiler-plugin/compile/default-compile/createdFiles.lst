@@ -1,0 +1,4 @@
+com\ef\dataaccess\model\AccessServerLog.class
+com\ef\dataaccess\repository\ParserLogRepository.class
+com\ef\dataaccess\model\ParserLog.class
+com\ef\dataaccess\repository\AccessServerLogRepository.class

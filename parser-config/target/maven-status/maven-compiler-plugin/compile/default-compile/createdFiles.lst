@@ -1,0 +1,6 @@
+com\ef\config\enums\GenericConstants.class
+com\ef\config\dto\InitialProccessReqDto.class
+com\ef\config\enums\DurationEnum.class
+com\ef\config\utils\ParserUtils$1.class
+com\ef\config\utils\ParserUtils.class
+com\ef\config\exception\WalletHubException.class
